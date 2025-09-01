@@ -5,4 +5,4 @@
 
 Slides up to grad descent.
 
-Practical element: Q1 and Q2 of <optim-qns.pdf>
+Practical element: Q1 and Q2 of [optim-qns.pdf](optim-qns.pdf)
